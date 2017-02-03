@@ -1,0 +1,15 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+div {
+    float: left;
+    width: 32.33%;
+    padding-bottom: 32.33%;
+    margin: 1px;
+    background-color: #e78326;
+    border-radius: 5px;
+}
